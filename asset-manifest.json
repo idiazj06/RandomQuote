@@ -1,0 +1,17 @@
+{
+  "files": {
+    "main.js": "/RandomQuote/static/js/main.fd61e7cf.chunk.js",
+    "main.js.map": "/RandomQuote/static/js/main.fd61e7cf.chunk.js.map",
+    "runtime-main.js": "/RandomQuote/static/js/runtime-main.443e2f09.js",
+    "runtime-main.js.map": "/RandomQuote/static/js/runtime-main.443e2f09.js.map",
+    "static/js/2.cd649568.chunk.js": "/RandomQuote/static/js/2.cd649568.chunk.js",
+    "static/js/2.cd649568.chunk.js.map": "/RandomQuote/static/js/2.cd649568.chunk.js.map",
+    "index.html": "/RandomQuote/index.html",
+    "static/js/2.cd649568.chunk.js.LICENSE.txt": "/RandomQuote/static/js/2.cd649568.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.443e2f09.js",
+    "static/js/2.cd649568.chunk.js",
+    "static/js/main.fd61e7cf.chunk.js"
+  ]
+}
